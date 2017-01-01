@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HuskyAdventures</string>
+    <string name="ERROR_while_downloading">Ooops! Something went wrong while downloading. Please make sure you have internet connection and restart the game.</string>
+    <string name="ERROR_download_not_finished_yet">Downloading the list of maps still not finished yet!</string>
+	<string name="ERROR_while_creating_map">Ooops! Something went wrong while creating map.</string>
+	<string name="GAME_END_won">You have successfully completed the map!</string>
+	<string name="GAME_END_won_can_exit">You have successfully completed the map! You can exit if you want to!</string>
+	<string name="GAME_other_left">The Other player has left the game.</string>
+</resources>

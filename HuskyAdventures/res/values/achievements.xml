@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">1008602933841</string>
+  <string name="achievement_beginner">CgkI0dStq60dEAIQAA</string>
+  <string name="achievement_medium">CgkI0dStq60dEAIQAg</string>
+  <string name="achievement_expert">CgkI0dStq60dEAIQAw</string>
+  <string name="achievement_hardcore">CgkI0dStq60dEAIQBA</string>
+  <string name="achievement_hunter">CgkI0dStq60dEAIQBQ</string>
+  <string name="achievement_multiplayer_level_1">CgkI0dStq60dEAIQBw</string>
+  <string name="achievement_multiplayer_level_2">CgkI0dStq60dEAIQCA</string>
+  <string name="achievement_multiplayer_level_3">CgkI0dStq60dEAIQCQ</string>
+  <string name="achievement_multiplayer_level_4">CgkI0dStq60dEAIQCg</string>
+  <string name="achievement_singleplayer_level_1">CgkI0dStq60dEAIQCw</string>
+  <string name="achievement_singleplayer_level_2">CgkI0dStq60dEAIQDA</string>
+  <string name="achievement_singleplayer_level_3">CgkI0dStq60dEAIQDQ</string>
+  <string name="achievement_singleplayer_level_4">CgkI0dStq60dEAIQDg</string>
+  <string name="leaderboard_highscores">CgkI0dStq60dEAIQBg</string>
+</resources>

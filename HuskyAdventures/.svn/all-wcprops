@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/android/!svn/ver/161/HuskyAdventures
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/android/!svn/ver/104/HuskyAdventures/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/android/!svn/ver/2/HuskyAdventures/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/android/!svn/ver/122/HuskyAdventures/project.properties
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/android/!svn/ver/2/HuskyAdventures/proguard-project.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/android/!svn/ver/104/HuskyAdventures/.project
+END

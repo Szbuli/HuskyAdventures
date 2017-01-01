@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/android/!svn/ver/161/HuskyAdventures/src/hu/szaray/huskyadventures/scene
+END
+ErrorScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/scene/ErrorScene.java
+END
+SceneManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/scene/SceneManager.java
+END
+GameScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/android/!svn/ver/164/HuskyAdventures/src/hu/szaray/huskyadventures/scene/GameScene.java
+END
+MainMenuScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/android/!svn/ver/146/HuskyAdventures/src/hu/szaray/huskyadventures/scene/MainMenuScene.java
+END
+SplashScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/scene/SplashScene.java
+END
+BaseScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/android/!svn/ver/146/HuskyAdventures/src/hu/szaray/huskyadventures/scene/BaseScene.java
+END
+MapChooserScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/scene/MapChooserScene.java
+END

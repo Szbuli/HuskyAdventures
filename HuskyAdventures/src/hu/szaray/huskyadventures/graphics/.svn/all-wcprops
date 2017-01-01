@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/android/!svn/ver/161/HuskyAdventures/src/hu/szaray/huskyadventures/graphics
+END
+StableTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/android/!svn/ver/95/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/StableTile.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/android/!svn/ver/63/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Tile.java
+END
+Door.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/android/!svn/ver/130/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Door.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/android/!svn/ver/164/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Player.java
+END
+TimeAnimatedTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/TimeAnimatedTile.java
+END
+CAnimatedSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/android/!svn/ver/130/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/CAnimatedSprite.java
+END
+Trap.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/android/!svn/ver/95/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Trap.java
+END
+Enemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Enemy.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/android/!svn/ver/101/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Key.java
+END
+Coin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/android/!svn/ver/101/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Coin.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/android/!svn/ver/163/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/Map.java
+END
+EndDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/android/!svn/ver/93/HuskyAdventures/src/hu/szaray/huskyadventures/graphics/EndDoor.java
+END

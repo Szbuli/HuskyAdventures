@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="appearance_category"
+        android:title="Appearance" >
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/colors"
+            android:entryValues="@array/color_values"
+            android:key="collar_color"
+            android:title="Collar color" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:key="other_category"
+        android:title="Other" >
+    </PreferenceCategory>
+
+</PreferenceScreen>

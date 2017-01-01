@@ -1,0 +1,61 @@
+8
+
+dir
+161
+https://carpoon.hu/svn/android/HuskyAdventures/res
+https://carpoon.hu/svn/android
+
+
+
+2014-05-19T13:09:18.954700Z
+153
+szbuli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+416b718f-28f9-4cfc-9d2a-1f0fe3c4b950
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
+xml
+dir
+

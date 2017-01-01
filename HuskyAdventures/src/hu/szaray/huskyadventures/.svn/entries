@@ -1,0 +1,97 @@
+8
+
+dir
+161
+https://carpoon.hu/svn/android/HuskyAdventures/src/hu/szaray/huskyadventures
+https://carpoon.hu/svn/android
+
+
+
+2014-05-19T15:12:35.885817Z
+161
+lorinc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+416b718f-28f9-4cfc-9d2a-1f0fe3c4b950
+
+Globals.java
+file
+
+
+
+
+2014-05-18T17:21:18.660000Z
+1afc9300799b6c720eb741d320a19d11
+2014-05-18T17:29:45.603892Z
+139
+szbuli
+
+MainActivity.java
+file
+163
+
+
+
+2014-05-19T15:44:22.073000Z
+a4f1b42b4c906a2fa838a2423c8d46b1
+2014-05-19T15:44:55.467895Z
+163
+szbuli
+
+Messages.java
+file
+
+
+
+
+2014-05-19T14:36:24.621000Z
+ce444e3f3fcb7b438afdb5caff8725b8
+2014-05-19T14:32:25.028292Z
+158
+lorinc
+
+Preferences.java
+file
+
+
+
+
+2014-05-11T16:38:34.254000Z
+548bf71059afbba9fb13c49bb69d1b08
+2014-05-11T16:39:27.545289Z
+91
+szbuli
+
+ResourceManager.java
+file
+
+
+
+
+2014-05-19T15:03:52.446000Z
+9141163b58a225fc966538be079b183c
+2014-05-19T15:03:27.439628Z
+160
+lorinc
+
+googleservices
+dir
+
+graphics
+dir
+
+scene
+dir
+
